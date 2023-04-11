@@ -1,0 +1,13 @@
+https://YOURDOMAIN.com
+https://YOURDOMAIN.com/tours
+https://YOURDOMAIN.com/about
+https://YOURDOMAIN.com/contact
+https://YOURDOMAIN.com/submission-confirmation
+https://YOURDOMAIN.com/cart
+https://YOURDOMAIN.com/checkout
+https://YOURDOMAIN.com/confirmation
+https://YOURDOMAIN.com/faq
+https://YOURDOMAIN.com/error
+https://YOURDOMAIN.com/privacy
+
+
